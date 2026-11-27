@@ -80,4 +80,5 @@ public class Review {
   public void setServiceAddress(String serviceAddress) {
     this.serviceAddress = serviceAddress;
   }
+
 }
